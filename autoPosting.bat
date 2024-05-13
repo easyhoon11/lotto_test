@@ -1,0 +1,1 @@
+python lotto_test.py
